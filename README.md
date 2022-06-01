@@ -1,2 +1,1 @@
-# c6supper
-Technical Blog
+# Calvin Wang's Resume & Bio
