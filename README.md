@@ -1,1 +1,1 @@
-# Calvin Wang's Resume & Bio
+# Calvin Wang's Resume
