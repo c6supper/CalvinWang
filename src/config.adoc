@@ -1,0 +1,21 @@
+// asciidoc settings for EN (English)
+// ==================================
+
+// where are images located?
+:imagesdir: {project-path}/images
+
+:pdf-themesdir: {utility-path}/theme
+ifdef::backend-pdf[]
+ifeval::["{language}" != "ch"]
+:pdf-theme: chronicles-theme.yml
+endif::[]
+
+ifeval::["{language}" == "ch"]
+:pdf-theme: cjk-theme.yml
+:pdf-fontsdir: {project-path}/build/font
+endif::[]
+
+:title-logo-image: image:logo.png[pdfwidth=4.25in,align=center]
+:source-highlighter: rouge
+:rouge-style: github
+endif::[]
