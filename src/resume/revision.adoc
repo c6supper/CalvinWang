@@ -1,0 +1,21 @@
+:numbered!:
+[width="100%",cols="1,2,5,2",options="header"]
+.List of Technical Constraints
+.Neptune Resume Template Revision History
+|===
+| Version
+| Date
+| Description
+| Name
+
+| 0.1
+| 2022/11/23
+| Draft
+| Calvin
+
+| 1.0
+| 2023/06/06
+| First Edition
+| Calvin
+
+|===
