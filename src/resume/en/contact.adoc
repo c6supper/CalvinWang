@@ -1,0 +1,21 @@
+[[section-contact]]
+== CONTACT
+
+ifdef::env-vscode[]
+include::./env.adoc[]
+include::../../env.adoc[]
+include::../../config.adoc[]
+endif::[]
+
+
+
+image:{project-path}/src/resource/img/avatar.png[Linux,150,150,float="right"] 
+
+[horizontal]
+Name:: Wang Ke
+Date of Birth:: February 24. 1983
+Nationality:: China
+Location:: Chengdu
+Email:: c6supper@hotmail.com
+Web:: https://github.com/c6supper
+Mobile:: +8617608007325

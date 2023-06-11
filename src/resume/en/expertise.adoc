@@ -1,0 +1,19 @@
+[[section-expertise]]
+== EXPERTISE
+:page-interpolate: true
+
+ifdef::env-vscode[]
+include::./env.adoc[]
+include::../../env.adoc[]
+include::../../config.adoc[]
+endif::[]
+
+* Rich experience in whole life cycle of software/product development, including phases like
+requirement, analysis, design, implementation, deployment, testing, release,
+support and maintenance
+* Rich experience of working with globally distributed engineering group
+* 9+ years of experience as lead software architect
+* 12+ years of experience as software architect
+* 10+ years of experience as software development manager
+* 17+ years of hands-on experiences in C/C++ 
+* 13+ years of hands-on experiences in Python/JAVA/C#/JavaScript/ HTML/XSL/XSD etc.

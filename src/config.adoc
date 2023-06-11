@@ -2,7 +2,7 @@
 // ==================================
 
 // where are images located?
-:imagesdir: {project-path}/images
+:imagesdir: {project-path}/src/resource/img
 
 :pdf-themesdir: {utility-path}/theme
 ifdef::backend-pdf[]
@@ -15,7 +15,7 @@ ifeval::["{language}" == "ch"]
 :pdf-fontsdir: {project-path}/build/font
 endif::[]
 
-:title-logo-image: image:logo.png[pdfwidth=4.25in,align=center]
+:title-logo-image: image:avatar.png[pdfwidth=4.25in,align=center]
 :source-highlighter: rouge
 :rouge-style: github
 endif::[]

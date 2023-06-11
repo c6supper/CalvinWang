@@ -1,7 +1,14 @@
 :numbered!:
+[[section-solution-strategy]]
+== Revision History
+
+ifdef::env-vscode[]
+include::../env.adoc[]
+endif::[]
+
 [width="100%",cols="1,2,5,2",options="header"]
 .List of Technical Constraints
-.Neptune Resume Template Revision History
+.Neptune Resume Template 
 |===
 | Version
 | Date
@@ -19,3 +26,4 @@
 | Calvin
 
 |===
+

@@ -1,0 +1,13 @@
+[[section-education]]
+== EDUCATION
+:page-interpolate: true
+
+ifdef::env-vscode[]
+include::./env.adoc[]
+include::../../env.adoc[]
+include::../../config.adoc[]
+endif::[]
+
+[horizontal]
+Beihang University (2002 ~ 2006):: 
+Bachelor of Mechatronics, Robotics, and Automation Engineering

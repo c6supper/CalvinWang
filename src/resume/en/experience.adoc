@@ -1,0 +1,182 @@
+[[section-experience]]
+== EXPERIENCE
+:page-interpolate: true
+
+ifdef::env-vscode[]
+include::./env.adoc[]
+include::../../env.adoc[]
+include::../../config.adoc[]
+endif::[]
+
+=== April 2021 ~ present Nobo Automotive
+[horizontal,role="experience"]
+Title:: Lead Software Architect/Principal Software Engineer
+Responsibilities::
+* Supervised and lead a team of 8 junior/senior software engineers
+* Designing, coding, and debugging Test Master System
+* Providing training and mentor other Engineers
+* Gathering early non-functional/functional requirements
+* Evaluating functional requirements captured by a business analyst
+* Interact with clients, product managers, and developers to envision, model, and design the system/software solution
+* Selecting a technology stack and deployment methods
+* Estimating development time
+* Designing a high-level architectural solution
+* Work with other Engineers in planning, prioritizing and executing assigned
+tasks within deadlines.
+
+==== Key Projects
+[horizontal,role="experience"]
+Project:: Test Master System (2021)
+Role:: Lead Software Architect/Principal Software Engineer
+Responsibilities::
+* Requirement analysis/ System/Software Design/Coding
+* Project/Team management
+Tech Stack:: UML/C++/Python/Lua/gRPC/MQTT/QT/PostgreSQL/MongoDB/macOS/Linux/Windows
+
+
+=== April 2021 ~ 2021 CYG Intelligent Automation
+[horizontal,role="experience"]
+Title:: Lead Software Architect/Principal Software Engineer
+Responsibilities::
+* Supervised and lead a team of 8 junior/senior software engineers
+* Designing, coding, and debugging Test Master System
+* Providing training and mentor other Engineers
+* Gathering early non-functional/functional requirements
+* Evaluating functional requirements captured by a business analyst
+* Interact with clients, product managers, and developers to envision, model, and design the system/software solution
+* Selecting a technology stack and deployment methods
+* Estimating development time
+* Designing a high-level architectural solution
+* Work with other Engineers in planning, prioritizing and executing assigned
+tasks within deadlines.
+Reason for Leaving:: Company restructuring
+
+==== Key Projects
+[horizontal,role="experience"]
+Project:: Test Master System (2021)
+Role:: Lead Software Architect/Principal Software Engineer
+Responsibilities::
+* Requirement analysis/ System/Software Design/Coding
+* Project/Team management
+Tech Stack:: UML/C++/Python/Lua/gRPC/MQTT/QT/PostgreSQL/MongoDB/macOS/Linux/Windows 
+
+Project:: Vision-based Testing System (2021)
+Role:: Lead Software Architect/Principal Software Engineer
+Responsibilities::
+* Requirement analysis/ System/Software Design/Coding/HW selection
+* Project/Team management
+Tech Stack:: C++/Python/MQTT/QT/ADLINK Motion SDK/MongoDB/macOS/Windows etc
+
+=== April 2012 ~ April 2021 VeEX Inc.
+[horizontal,role="experience"]
+Title:: Software Development Manager/Lead Software Architect
+Responsibilities::
+* Supervised and lead a team of 20+ junior/senior software engineers
+* Designing, coding, and debugging both Server and Embedded devices
+* Providing training and mentor other Engineers
+* Recommend new technologies to ensure quality and productivity
+* Responsible for the overall planning, execution and success of complex
+technical projects
+* Work closely with the global marketing team to ensure building the best
+possible products.
+Reason for Leaving:: Sales fell steeply in US because of COVID-19, the telecom industry is falling
+
+==== Key Projects
+[horizontal,role="experience"]
+Projects:: Dozens of Ethernet/Transmission/CATV measurement instruments System/Software Design (2012 ~ 2021)
+Role:: Software Development Manager/Lead Software Architect/Full Stack Engineer
+Summary:: Various embedded test meters' System/Software Design/Implementation
+Responsibilities:: 
+* Requirement analysis/ System/Software Design/Coding
+* Project/Team management
+Tech Stack:: C++/C/QT/SQLite/MQTT/RPC/Linux/LXC/LXD/Alpine etc.
+
+Projects:: EZ Remote Cloud Service System (Feb. 2020 ~ April 2021)
+Summary:: The EZ Remote functionality allows users to quickly and securely connect
+to VeEX test sets around the world
+Role:: Software Development Manager/Lead Software Architect/Full Stack Engineer
+Responsibilities:: 
+* Requirement analysis/ System/Software Design/Coding
+* Project/Team management
+Tech Stack::
+C++/Java/TypeScript/JS/Guice/RESTfull/MyBatis/QT/OAuth2/Rocket.chat/Nginx/OpenVPN/K
+eycloak/PostgreSQL/MongoDB/Docker/K8S/istio/Centos etc.
+
+Projects:: VeExpress Cloud License Management Service(June 2014 ~ April 2021)
+Summary:: VeExpress (US Patent 9,900,393) is a centralized (cloud) service hosted
+by VeEX, which allows its customers to seamlessly manage the software licenses
+for their geographically-dispersed fleet of test equipment and users
+Role:: Software Development Manager/Lead Software Architect
+Responsibilities:: 
+* Requirement analysis/ System/Software Design/Coding
+* Project/Team management
+Tech Stack::
+C++/C#/JavaScript/AngularJS/.NET/QT/RESTfull/EF/MySQL/Swagger/Windows/Linux/Andro
+id/macOS
+
+Projects:: SCPI-based Automation Testing Manager (April 2012 ~ April 2021)
+Summary:: To manage, test with VeEX’s test meters in SCPI
+Role:: Software Development Manager/Lead Software Architect/Full Stack Engineer
+Responsibilities:: 
+* Requirement analysis/ System/Software Design/Coding
+* Project/Team management
+Tech Stack:: C++/C/QT/Linux/Windows/Android/macOS etc.
+
+Projects:: Ethernet Performance Analyzer (Nov.2020 ~ April 2021)
+Summary:: Based on Docker + Intel DPDK. An Ethernet performance analyze system.
+Role:: Lead Software Architect/Full Stack Engineer
+Responsibilities:: 
+* Requirement analysis/ System/Software Design/Coding
+Tech Stack:: C++/DPDK/QT/PcapPlusPlus/Docker/Centos etc.
+
+=== Sept. 2007 ~ April 2012 HUAWEI
+Title:: Team Leader
+Responsibilities::
+* Supervised and lead a team of 8 junior/senior software engineers
+* Designing, coding, and debugging W-CDMA Base Stations' Embedded devices
+* Work closely with the Product Management team to ensure building the best
+possible products.
+* Experienced with sound debugging techniques, expert in analyzing and
+solving the software problem.
+* Worked in Italy with Vodafone for 6 months in 2010.
+* In charge of the CPU Selection for the next generation of the BBU.
+* In charge of the CI/CD
+* Experienced in all project phases using Waterfall and Agile Methodologies
+Reason for Leaving:: Relocation
+
+==== Key Projects
+[horizontal,role="experience"]
+Projects:: Dozens of W-CDMA Base Station projects(Sept. 2007 ~ April 2012)
+Role:: Software Architect/Senior Software Engineer
+Summary:: Design/Maintain the infrastructure & middleware modules
+Responsibilities:: 
+* Requirement analysis/ System/Software Design/Coding
+* Project/Team management
+Tech Stack:: C/VxWorks/Linux etc.
+
+Projects:: Multi-core CPU Selection & Validation & Porting (June 2009 ~ April 2012)
+Role:: Team Leader
+Summary:: Porting source code from ARM+DSP to the multi-core & FPGA platforms
+Responsibilities:: 
+* Requirement analysis/ System Design/Coding
+* Agile Software Development Managing
+Tech Stack:: C/VxWorks/Linux etc.
+
+=== Sept. 2006 ~ Aug. 2007 Optel Inc.
+Title:: Senior Software Engineer
+Responsibilities::
+* Assist the Development Manager with all aspects of software design and
+coding
+* Coding & Debugging
+* Monitoring the technical performance of internal systems
+Reason for Leaving:: Better Opportunity 
+
+==== Key Projects
+[horizontal,role="experience"]
+Projects:: Dozens of Transmission Meters Software Design(Sept. 2006 ~ Aug. 2007)
+Role:: Software Engineer/Senior Software Engineer
+Summary:: Various embedded test meters' Software Design/Coding
+Responsibilities:: 
+* Module Requirement analysis/Design/Coding/Debugging
+Tech Stack:: C/VxWorks/Linux etc.
+
