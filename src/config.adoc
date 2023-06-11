@@ -15,7 +15,7 @@ ifeval::["{language}" == "ch"]
 :pdf-fontsdir: {project-path}/build/font
 endif::[]
 
-:title-logo-image: image:avatar.png[pdfwidth=4.25in,align=center]
+// :title-logo-image: image:avatar.png[pdfwidth=4.25in,align=center]
 :source-highlighter: rouge
 :rouge-style: github
 endif::[]

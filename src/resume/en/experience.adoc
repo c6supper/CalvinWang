@@ -8,7 +8,7 @@ include::../../env.adoc[]
 include::../../config.adoc[]
 endif::[]
 
-=== April 2021 ~ present Nobo Automotive
+=== Nobo Automotive (April 2021 ~ present)
 [horizontal,role="experience"]
 Title:: Lead Software Architect/Principal Software Engineer
 Responsibilities::
@@ -34,7 +34,7 @@ Responsibilities::
 Tech Stack:: UML/C++/Python/Lua/gRPC/MQTT/QT/PostgreSQL/MongoDB/macOS/Linux/Windows
 
 
-=== April 2021 ~ 2021 CYG Intelligent Automation
+=== CYG Intelligent Automation (April 2021 ~ 2021)
 [horizontal,role="experience"]
 Title:: Lead Software Architect/Principal Software Engineer
 Responsibilities::
@@ -67,7 +67,7 @@ Responsibilities::
 * Project/Team management
 Tech Stack:: C++/Python/MQTT/QT/ADLINK Motion SDK/MongoDB/macOS/Windows etc
 
-=== April 2012 ~ April 2021 VeEX Inc.
+=== 2021 VeEX Inc. (April 2012 ~ April)
 [horizontal,role="experience"]
 Title:: Software Development Manager/Lead Software Architect
 Responsibilities::
@@ -129,7 +129,7 @@ Responsibilities::
 * Requirement analysis/ System/Software Design/Coding
 Tech Stack:: C++/DPDK/QT/PcapPlusPlus/Docker/Centos etc.
 
-=== Sept. 2007 ~ April 2012 HUAWEI
+=== HUAWEI (Sept. 2007 ~ April 2012)
 Title:: Team Leader
 Responsibilities::
 * Supervised and lead a team of 8 junior/senior software engineers
@@ -162,7 +162,7 @@ Responsibilities::
 * Agile Software Development Managing
 Tech Stack:: C/VxWorks/Linux etc.
 
-=== Sept. 2006 ~ Aug. 2007 Optel Inc.
+=== Optel Inc. (Sept. 2006 ~ Aug. 2007)
 Title:: Senior Software Engineer
 Responsibilities::
 * Assist the Development Manager with all aspects of software design and
