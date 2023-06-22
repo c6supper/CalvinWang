@@ -8,31 +8,123 @@ include::../../env.adoc[]
 include::../../config.adoc[]
 endif::[]
 
-=== Nobo Automotive (April 2021 ~ present)
+=== Nobo Automotive (August 2021 ~ present)
 [horizontal,role="experience"]
-Title:: Lead Software Architect/Principal Software Engineer
+Title:: Software Architect Specialist
 Responsibilities::
-* Supervised and lead a team of 8 junior/senior software engineers
-* Designing, coding, and debugging Test Master System
-* Providing training and mentor other Engineers
-* Gathering early non-functional/functional requirements
-* Evaluating functional requirements captured by a business analyst
-* Interact with clients, product managers, and developers to envision, model, and design the system/software solution
-* Selecting a technology stack and deployment methods
-* Estimating development time
-* Designing a high-level architectural solution
-* Work with other Engineers in planning, prioritizing and executing assigned
-tasks within deadlines.
+* Work with cross-functional team for software development, identify risks and drive the execution of planned requirement by creating, documenting and maintaining product software architecture for both application and basic software level.
+* Develop and maintain traceability between software requirements, architectural design, interfaces requirements and integration tests as per software development milestones.
+* Work with software team members and quality assurance to ensure software work products and deliverables for requirements, software architecture and test methods are in compliance with ISO-26262 guidelines to meet required ASIL levels and ASPICE process.
+* Establish strategy for the evolution of a multi-generation/reusable platform software product, product agnostics and highly configurable building blocks for various applications.
+* Support RFI efforts by working with direct and indirect suppliers in developing and reviewing requirements, sourcing package and scope of project. Ensure desired functional acceptance criteria meets required standards.
+* Act as a liaison and technical leader for vehicle level component and sub-component software architecture deliverables, software verification tools at integration level and tests for both in-house development and software suppliers.
+* Mentor and coach team members. Ensure projects are delivered on-time within architecture defined scope.
 
 ==== Key Projects
 [horizontal,role="experience"]
-Project:: Test Master System (2021)
-Role:: Lead Software Architect/Principal Software Engineer
+Project:: V4 Platform (2022-present)
+Role:: Software/System Architect
+Summary:: Next generation Smart Cockpit Controller Platform, based on SA8295P
 Responsibilities::
-* Requirement analysis/ System/Software Design/Coding
-* Project/Team management
-Tech Stack:: UML/C++/Python/Lua/gRPC/MQTT/QT/PostgreSQL/MongoDB/macOS/Linux/Windows
+* According to ASPICE
+** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
+** Lead SWE.1/SWE.2/SWE.3
+Responsibilities::
+* According to ISO 26262
+** Lead the whole 6.Software Level development processes
+Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
 
+Project:: RPAS (2022-present)
+Role:: Software Architect
+Summary:: BXW Assessment for Tier 1
+Responsibilities::
+* According to ASPICE
+** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
+** Lead SWE.1/SWE.2/SWE.3
+Responsibilities::
+* According to ISO 26262
+** Lead the whole 6.Software Level development processes
+Tech Stack:: UML/EA/Draw.io/ELM/ASCIIDOC/PlantUML etc.
+
+Project:: EC31 (2021-present)
+Role:: Software Architect
+Summary:: Smart Cockpit Controller for personal Electric SUV, based on SA8155P
+Responsibilities::
+* According to ASPICE
+** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
+** Lead SWE.1/SWE.2/SWE.3
+Responsibilities::
+* According to ISO 26262
+** Lead the whole 6.Software Level development processes
+Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
+
+Project:: ASPICE Certification (EC31) (2021-2023)
+Role:: Software Architect
+Summary:: Project Certified by ASPICE CL3
+Responsibilities(According to ASPICE)::
+* Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
+* Lead SWE.1/SWE.2/SWE.3
+Tech Stack:: UML/EA/Draw.io/ELM/ASCIIDOC/PlantUML etc.
+
+Project:: HT01 (2022-present)
+Role:: Software Architect
+Summary:: Smart Cockpit Controller for Business Electric Truck, based on SA8155P
+Responsibilities::
+* According to ASPICE
+** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
+** Lead SWE.1/SWE.2/SWE.3
+Responsibilities::
+* According to ISO 26262
+** Lead the whole 6.Software Level development processes
+Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
+
+Project:: B16ovs & B07ovs (2022-present)
+Role:: Software Architect
+Summary:: Smart Cockpit Controller for personal Hybrid SUV(focused on oversea market), based on SA8155P
+Responsibilities::
+* According to ASPICE
+** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
+** Lead SWE.1/SWE.2/SWE.3
+Responsibilities::
+* According to ISO 26262
+** Lead the whole 6.Software Level development processes
+Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
+
+Project:: P01ovs (2021-present)
+Role:: Software Architect
+Summary:: Smart Cockpit Controller for personal Hybrid SUV(focused on oversea market), based on SA8155P
+Responsibilities::
+* According to ASPICE
+** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
+** Lead SWE.1/SWE.2/SWE.3
+Responsibilities::
+* According to ISO 26262
+** Lead the whole 6.Software Level development processes
+Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
+
+Project:: P05 (2021-2022)
+Role:: Software Architect
+Summary:: Smart Cockpit Controller for petrol pickup trunk, based on SA8155P
+Responsibilities::
+* According to ASPICE
+** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
+** Lead SWE.1/SWE.2/SWE.3
+Responsibilities::
+* According to ISO 26262
+** Lead the whole 6.Software Level development processes
+Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
+
+Project:: DE07 (2021-2022 canceled)
+Role:: Software Architect
+Summary:: Smart Cockpit Controller for personal Hybrid SUV (GWM's Next generation E/E Architecture), based on SA8155P
+Responsibilities::
+* According to ASPICE
+** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
+** Lead SWE.1/SWE.2/SWE.3
+Responsibilities::
+* According to ISO 26262
+** Lead the whole 6.Software Level development processes
+Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
 
 === CYG Intelligent Automation (April 2021 ~ 2021)
 [horizontal,role="experience"]
