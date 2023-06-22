@@ -11,3 +11,7 @@ endif::[]
 [horizontal]
 Beihang University (2002 ~ 2006):: 
 Bachelor of Mechatronics, Robotics, and Automation Engineering
+
+=== Languages Certification 
+[horizontal]
+English TOEIC (Listening Test and Reading Test ~ 910)
