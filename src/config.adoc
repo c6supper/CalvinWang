@@ -1,6 +1,8 @@
 // asciidoc settings for EN (English)
 // ==================================
 
+:!chapter-signifier:
+
 // where are images located?
 :imagesdir: {project-path}/src/resource/img
 
