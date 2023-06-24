@@ -1,0 +1,16 @@
+[[section-education]]
+== 教育背景
+:page-interpolate: true
+
+ifdef::env-vscode[]
+include::./env.adoc[]
+include::../../env.adoc[]
+include::../../config.adoc[]
+endif::[]
+
+[horizontal]
+北京航空航天大学 (2002 ~ 2006):: 
+电气工程及其自动化 本科
+
+语言认证::
+* 托业 (2022) (Listening Test and Reading Test ~ 910)

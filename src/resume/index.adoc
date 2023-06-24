@@ -1,4 +1,4 @@
-// configure EN settings for asciidoc
+// configure settings for asciidoc
 include::../config.adoc[]
 // parameters for document
 include::{language}/env.adoc[]

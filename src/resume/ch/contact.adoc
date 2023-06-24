@@ -1,4 +1,20 @@
+[[section-contact]]
+== 个人资料
+
+ifdef::env-vscode[]
+include::./env.adoc[]
+include::../../env.adoc[]
+include::../../config.adoc[]
+endif::[]
+
+
+image:{project-path}/src/resource/img/avatar.png[Linux,150,150,float="right"] 
+
 [horizontal]
-CPU:: The brain of the computer.
-Hard drive:: Permanent storage for operating system and/or user files.
-RAM:: Temporarily stores information the CPU uses during operation.
+姓名:: 王珂
+出生日期:: 1983-02-24
+民族:: 汉
+所在地:: 成都
+邮箱:: c6supper@hotmail.com
+主页:: https://github.com/c6supper
+联系方式:: 17608007325 (wechat咨询优先,同号)
