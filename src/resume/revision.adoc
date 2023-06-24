@@ -1,4 +1,3 @@
-:numbered!:
 [[section-solution-strategy]]
 == Revision History
 
@@ -7,8 +6,6 @@ include::../env.adoc[]
 endif::[]
 
 [width="100%",cols="1,2,5,2",options="header"]
-.List of Technical Constraints
-.Neptune Resume Template 
 |===
 | Version
 | Date
@@ -20,8 +17,8 @@ endif::[]
 | Draft
 | Calvin
 
-| 1.0
-| 2023/06/06
+| {product_version}
+| 2023/06/24
 | First Edition
 | Calvin
 

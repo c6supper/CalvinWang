@@ -5,8 +5,8 @@ include::{language}/env.adoc[]
 include::../env.adoc[]
 
 = {doc-title}
-{doc-author} {doc-email}
-:email: {doc-email}
+{company} - {position}
+{product_version},  {docdate}
 :toc-title: Table of Contents
 :doctype: book
 :icons: font
@@ -30,8 +30,7 @@ ifdef::backend-html5[]
 ++++
 endif::backend-html5[]
 
-// numbering from here on
-:numbered:
+:numbered!:
 
 <<<<
 // Contact

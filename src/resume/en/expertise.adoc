@@ -11,7 +11,7 @@ endif::[]
 === Technical Skills
 * Rich experience in whole life cycle of software/product development, including phases like pre-sale, requirement, analysis, design, implementation, deployment, testing, release, support and maintenance
 * Deep understanding with DevOps practices
-* 9+ years of experience as lead software architect
+* 11+ years of experience as lead software architect
 * 12+ years of experience as software architect
 * 17+ years of hands-on experiences in C/C++ 
 * 13+ years of hands-on experiences in Python/JAVA/C#/JavaScript/HTML/XSL/XSD etc.

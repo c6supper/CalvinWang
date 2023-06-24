@@ -2,6 +2,7 @@
 // ==================================
 
 :!chapter-signifier:
+:version-label!:
 
 // where are images located?
 :imagesdir: {project-path}/src/resource/img

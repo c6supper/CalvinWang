@@ -27,12 +27,10 @@ Role:: Software/System Architect
 Summary:: Next generation Smart Cockpit Controller Platform, based on SA8295P
 Responsibilities::
 * According to ASPICE
-[.text-left]
 ** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
 ** Lead SWE.1/SWE.2/SWE.3
 Responsibilities::
 * According to ISO-26262
-[.text-left]
 ** Lead the whole 6.Software Level development processes
 Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
 
@@ -41,12 +39,10 @@ Role:: Software Architect
 Summary:: BXW Assessment for Tier 1
 Responsibilities::
 * According to ASPICE
-[.text-left]
 ** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
 ** Lead SWE.1/SWE.2/SWE.3
 Responsibilities::
 * According to ISO-26262
-[.text-left]
 ** Lead the whole 6.Software Level development processes
 Tech Stack:: UML/EA/Draw.io/ELM/ASCIIDOC/PlantUML etc.
 
@@ -55,12 +51,10 @@ Role:: Software Architect
 Summary:: Smart Cockpit Controller for personal Electric SUV, based on SA8155P
 Responsibilities::
 * According to ASPICE
-[.text-left]
 ** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
 ** Lead SWE.1/SWE.2/SWE.3
 Responsibilities::
 * According to ISO-26262
-[.text-left]
 ** Lead the whole 6.Software Level development processes
 Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
 
@@ -69,7 +63,6 @@ Role:: Software Architect
 Summary:: Project Certified by ASPICE CL3
 Responsibilities::
 * According to ASPICE
-[.text-left]
 ** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
 ** Lead SWE.1/SWE.2/SWE.3
 Tech Stack:: UML/EA/Draw.io/ELM/ASCIIDOC/PlantUML etc.
@@ -79,12 +72,10 @@ Role:: Software Architect
 Summary:: Smart Cockpit Controller for Business Electric Truck, based on SA8155P
 Responsibilities::
 * According to ASPICE
-[.text-left]
 ** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
 ** Lead SWE.1/SWE.2/SWE.3
 Responsibilities::
 * According to ISO-26262
-[.text-left]
 ** Lead the whole 6.Software Level development processes
 Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
 
@@ -93,12 +84,10 @@ Role:: Software Architect
 Summary:: Smart Cockpit Controller for personal Hybrid SUV(focused on oversea market), based on SA8155P
 Responsibilities::
 * According to ASPICE
-[.text-left]
 ** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
 ** Lead SWE.1/SWE.2/SWE.3
 Responsibilities::
 * According to ISO-26262
-[.text-left]
 ** Lead the whole 6.Software Level development processes
 Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
 
@@ -107,12 +96,10 @@ Role:: Software Architect
 Summary:: Smart Cockpit Controller for personal Hybrid SUV(focused on oversea market), based on SA8155P
 Responsibilities::
 * According to ASPICE
-[.text-left]
 ** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
 ** Lead SWE.1/SWE.2/SWE.3
 Responsibilities::
 * According to ISO-26262
-[.text-left]
 ** Lead the whole 6.Software Level development processes
 Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
 
@@ -121,12 +108,10 @@ Role:: Software Architect
 Summary:: Smart Cockpit Controller for petrol pickup trunk, based on SA8155P
 Responsibilities::
 * According to ASPICE
-[.text-left]
 ** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
 ** Lead SWE.1/SWE.2/SWE.3
 Responsibilities::
 * According to ISO-26262
-[.text-left]
 ** Lead the whole 6.Software Level development processes
 Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
 
@@ -135,12 +120,10 @@ Role:: Software Architect
 Summary:: Smart Cockpit Controller for personal Hybrid SUV (GWM's Next generation E/E Architecture), based on SA8155P
 Responsibilities::
 * According to ASPICE
-[.text-left]
 ** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
 ** Lead SWE.1/SWE.2/SWE.3
 Responsibilities::
 * According to ISO-26262
-[.text-left]
 ** Lead the whole 6.Software Level development processes
 Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
 
@@ -193,8 +176,12 @@ Reason for Leaving:: Sales fell steeply in US because of COVID-19, the telecom i
 
 ==== Key Projects
 [horizontal,role="experience"]
-Projects:: Dozens of Ethernet/Transmission/CATV measurement instruments System/Software Design (2012 ~ 2021)
-Role:: Software Development Manager/Lead Software Architect/Full Stack Engineer
+Projects:: 
+[none]
+* Dozens of Ethernet/Transmission/CATV measurement instruments System/Software Design (2012 ~ 2021)
+Role:: 
+[none]
+* Software Development Manager/Lead Software Architect/Full Stack Engineer
 Summary:: Various embedded test meters' System/Software Design/Implementation
 Responsibilities:: 
 * Requirement analysis/ System/Software Design/Coding
