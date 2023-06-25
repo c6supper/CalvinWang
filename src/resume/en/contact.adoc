@@ -17,5 +17,5 @@ Date of Birth:: February 24. 1983
 Nationality:: China
 Location:: Chengdu
 Email:: c6supper@hotmail.com
-Web:: https://github.com/c6supper
+Web:: https://c6supper.github.io/
 Mobile:: +8617608007325

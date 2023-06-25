@@ -15,7 +15,7 @@ include::../env.adoc[]
 :toclevels: 4
 :sectlinks:
 
-//additional style for arc42 help callouts
+//additional style for help callouts
 ifdef::backend-html5[]
 ++++
 <style>
@@ -28,6 +28,15 @@ ifdef::backend-html5[]
 }
 </style>
 ++++
+endif::backend-html5[]
+
+ifdef::backend-html5[]
+ifeval::["{language}" == "ch"]
+link:++https://c6supper.github.io/index_ch.html++[Looking for the English Version?]
+endif::[]
+ifeval::["{language}" != "ch"]
+link:++https://c6supper.github.io/index_ch.html++[找中文版?]
+endif::[]
 endif::backend-html5[]
 
 :numbered!:
