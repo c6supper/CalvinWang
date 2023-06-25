@@ -32,7 +32,7 @@ endif::backend-html5[]
 
 ifdef::backend-html5[]
 ifeval::["{language}" == "ch"]
-link:++https://c6supper.github.io/index_ch.html++[Looking for the English Version?]
+link:++https://c6supper.github.io/index.html++[Looking for the English Version?]
 endif::[]
 ifeval::["{language}" != "ch"]
 link:++https://c6supper.github.io/index_ch.html++[找中文版?]
