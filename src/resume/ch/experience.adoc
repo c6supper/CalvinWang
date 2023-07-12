@@ -23,6 +23,7 @@ endif::[]
 
 ==== 核心项目
 [horizontal,角色="experience"]
+'''
 项目:: V4平台 (2022-当前)
 角色:: 软件/系统架构
 项目简介:: 以高通SA8295P为平台的,下一代智能座舱
@@ -35,6 +36,7 @@ endif::[]
 ** 主导6.软件层级开发流程
 技术栈:: UML/C/C++/AUTOSAR/QNX/Android等
 
+'''
 项目:: RPAS (2022-当前)
 角色:: 软件架构
 项目简介:: BXW对于Tier1的评估项目
@@ -47,6 +49,7 @@ endif::[]
 ** 主导6.软件层级开发流程
 技术栈:: UML/EA/Draw.io/ELM/ASCIIDOC/PlantUML等
 
+'''
 项目:: EC31 (2021-当前)
 角色:: 软件架构
 项目简介:: 以高通SA8155P为平台的,个人纯电SUV智能座舱项目
@@ -59,6 +62,7 @@ endif::[]
 ** 主导6.软件层级开发流程
 技术栈:: UML/C/C++/AUTOSAR/QNX/Android等
 
+'''
 项目:: ASPICE认证 (EC31) (2021-2023)
 角色:: 软件架构
 项目简介:: 为通过ASPICE CL3级设立的项目
@@ -68,6 +72,7 @@ endif::[]
 ** 主导SWE.1/SWE.2/SWE.3
 技术栈:: UML/EA/Draw.io/ELM/ASCIIDOC/PlantUML等
 
+'''
 项目:: HT01 (2022-当前)
 角色:: 软件架构
 项目简介:: 以高通SA8155P为平台的,商业纯电重卡智能座舱项目
@@ -80,6 +85,7 @@ endif::[]
 ** 主导6.软件层级开发流程
 技术栈:: UML/C/C++/AUTOSAR/QNX/Android等
 
+'''
 项目:: B16ovs & B07ovs (2022-当前)
 角色:: 软件架构
 项目简介:: 以高通SA8155P为平台的,面向海外市场的个人(油)混动SUV智能座舱项目
@@ -92,6 +98,7 @@ endif::[]
 ** 主导6.软件层级开发流程
 技术栈:: UML/C/C++/AUTOSAR/QNX/Android等
 
+'''
 项目:: P01ovs (2021-当前)
 角色:: 软件架构
 项目简介:: 以高通SA8155P为平台的,面向海外市场的个人(油)混动SUV智能座舱项目
@@ -104,6 +111,7 @@ endif::[]
 ** 主导6.软件层级开发流程
 技术栈:: UML/C/C++/AUTOSAR/QNX/Android等
 
+'''
 项目:: P03 (2021-2022)
 角色:: 软件架构
 项目简介:: 以高通SA8155P为平台的,面向海外市场的个人(油)混动SUV智能座舱项目
@@ -116,6 +124,7 @@ endif::[]
 ** 主导6.软件层级开发流程
 技术栈:: UML/C/C++/AUTOSAR/QNX/Android等
 
+'''
 项目:: P05 (2021-2022)
 角色:: 软件架构
 项目简介:: 以高通SA8155P为平台的,面向个人(油)混动皮卡智能座舱项目
@@ -128,6 +137,7 @@ endif::[]
 ** 主导6.软件层级开发流程
 技术栈:: UML/C/C++/AUTOSAR/QNX/Android等
 
+'''
 项目:: DE07 (2021-2022)
 角色:: 软件架构
 项目简介:: 以高通SA8155P为平台的个人混动高端轿车(下一代电子电气架构)
@@ -156,6 +166,7 @@ endif::[]
 
 ==== 核心项目
 [horizontal,角色="experience"]
+'''
 项目:: Test Master System (2021)
 角色:: 主导软件架构/首席软件工程师
 职责::
@@ -163,6 +174,7 @@ endif::[]
 * 项目/团队管理
 技术栈:: UML/C++/Python/Lua/gRPC/MQTT/QT/PostgreSQL/MongoDB/macOS/Linux/Windows 
 
+'''
 项目:: Vision-based Testing System (2021)
 角色:: 主导软件架构/首席软件工程师
 职责::
@@ -184,6 +196,7 @@ endif::[]
 
 ==== 核心项目
 [horizontal,角色="experience"]
+'''
 项目:: 
 [none]
 * 几十款以太网/传输网/CATV测量仪器的系统/软件设计 (2012 ~ 2021)
@@ -196,6 +209,7 @@ endif::[]
 * 项目/团队管理
 技术栈:: C++/C/QT/SQLite/MQTT/RPC/Linux/LXC/LXD/Alpine等
 
+'''
 项目:: EZ Remote Cloud Service System (Feb. 2020 ~ April 2021)
 项目简介:: EZ Remote云服务器,可以让世界各地用户快速、安全地连接、控制VeEX设计开发的测试仪表设备
 角色:: 软件开发经理/主导软件架构/全栈工程师
@@ -206,6 +220,7 @@ endif::[]
 C++/Java/TypeScript/JS/Guice/RESTfull/MyBatis/QT/OAuth2/Rocket.chat/Nginx/OpenVPN/K
 eycloak/PostgreSQL/MongoDB/Docker/K8S/istio/CentOS等
 
+'''
 项目:: VeExpress Cloud License Management Service(June 2014 ~ April 2021)
 项目简介:: VeExpress (US Patent 9,900,393) 是集中式托管(云)服务器, 允许客户无缝地远程管理软件许可证,并将许可证通过以太网应用到VeEX设计开发的测试仪表
 角色:: 软件开发经理/主导软件架构
@@ -216,6 +231,7 @@ eycloak/PostgreSQL/MongoDB/Docker/K8S/istio/CentOS等
 C++/C#/JavaScript/AngularJS/.NET/QT/RESTfull/EF/MySQL/Swagger/Windows/Linux/Andro
 id/macOS
 
+'''
 项目:: SCPI-based Automation Testing Manager (April 2012 ~ April 2021)
 项目简介:: 通过SCPI标准,批量自动化管理VeEX设计开发的仪表
 角色:: 软件开发经理/主导软件架构/全栈工程师
@@ -224,6 +240,7 @@ id/macOS
 * 项目/团队管理
 技术栈:: C++/C/QT/Linux/Windows/Android/macOS等
 
+'''
 项目:: Ethernet Performance Analyzer (Nov.2020 ~ April 2021)
 项目简介:: 以Docker + Intel DPDK为基础栈的以太网性能分析服务器
 角色:: 主导软件架构/全栈工程师
@@ -246,6 +263,7 @@ id/macOS
 
 ==== 核心项目
 [horizontal,角色="experience"]
+'''
 项目:: 几十款W-CDMA基站软件开发项目(2007 ~ 2012)
 角色:: 软件架构/高级软件开发工程师
 项目简介:: 设计/开发基础&中间层软件
@@ -254,6 +272,7 @@ id/macOS
 * 项目/团队管理
 技术栈:: C/VxWorks/Linux等
 
+'''
 项目:: SoC选型 & 验证 & 移植 (2009 ~ 2012)
 角色:: 团队技术领导
 项目简介:: SoC选型, 将原项目的设计/代码移植到新平台
@@ -272,6 +291,7 @@ id/macOS
 
 ==== 核心项目
 [horizontal,角色="experience"]
+'''
 项目:: 数十款传输网仪器的软件设计开发(2006 ~ 2007)
 角色:: 软件工程师/高级软件工程师
 项目简介:: Various embedded test meters' Software Design/Coding
