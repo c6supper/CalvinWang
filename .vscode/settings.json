@@ -1,0 +1,10 @@
+{
+  "makefile.configureOnOpen": false,
+  "asciidoc.preview.asciidoctorAttributes": {
+        "pdf-style": "${workspaceFolder}/utility/theme/chronicles-theme.yml",
+        "project-path": "${workspaceFolder}",
+        "utility-path": "${workspaceFolder}/utility",
+        "language": "en",
+        "kroki-server-url": "https://kroki.io/"
+    },
+}

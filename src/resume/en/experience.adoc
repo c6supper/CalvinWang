@@ -23,8 +23,99 @@ Responsibilities::
 ==== Key Projects
 [horizontal,role="experience"]
 '''
+Project:: D03-1 TANK(2024-present)
+Role:: Software Architect
+Summary:: Smart Cockpit Controller for personal Hybrid SUV, based on V4 platform
+Responsibilities::
+* From the aspect of ASPICE
+** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
+** Lead SWE.1/SWE.2/SWE.3
+Responsibilities::
+* From the aspect of ISO-26262
+** Lead the whole 6.Software Level development processes
+Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
+
+'''
+Project:: D01 TANK(2024-present)
+Role:: Software Architect
+Summary:: Smart Cockpit Controller for personal Hybrid SUV, based on V4 platform
+Responsibilities::
+* From the aspect of ASPICE
+** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
+** Lead SWE.1/SWE.2/SWE.3
+Responsibilities::
+* From the aspect of ISO-26262
+** Lead the whole 6.Software Level development processes
+Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
+
+'''
+Project:: P03-3 TANK(2024-present)
+Role:: Software Architect
+Summary:: Smart Cockpit Controller for personal Hybrid SUV, based on V4 platform
+Responsibilities::
+* From the aspect of ASPICE
+** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
+** Lead SWE.1/SWE.2/SWE.3
+Responsibilities::
+* From the aspect of ISO-26262
+** Lead the whole 6.Software Level development processes
+Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
+
+'''
+Project:: P03-3 TANK(2024-present)
+Role:: Software Architect
+Summary:: Smart Cockpit Controller for personal Hybrid SUV, based on V4 platform
+Responsibilities::
+* From the aspect of ASPICE
+** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
+** Lead SWE.1/SWE.2/SWE.3
+Responsibilities::
+* From the aspect of ISO-26262
+** Lead the whole 6.Software Level development processes
+Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
+
+'''
+Project:: P02-3 TANK(2024-present)
+Role:: Software Architect
+Summary:: Smart Cockpit Controller for personal Hybrid SUV, based on V4 platform
+Responsibilities::
+* From the aspect of ASPICE
+** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
+** Lead SWE.1/SWE.2/SWE.3
+Responsibilities::
+* From the aspect of ISO-26262
+** Lead the whole 6.Software Level development processes
+Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
+
+'''
+Project:: C01-1 WEY(2023-present)
+Role:: Principal Software Architect
+Summary:: Debut for the V4 platform, Smart Cockpit Controller for personal Hybrid SUV
+Responsibilities::
+* From the aspect of ASPICE
+** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
+** Lead SWE.1/SWE.2/SWE.3
+Responsibilities::
+* From the aspect of ISO-26262
+** Lead the whole 6.Software Level development processes
+Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
+
+'''
+Project:: DE09/10 SALOON(2023-present)
+Role:: Software Architect
+Summary:: Smart Cockpit Controller for personal Hybrid SUV, based on V4 platform
+Responsibilities::
+* From the aspect of ASPICE
+** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
+** Lead SWE.1/SWE.2/SWE.3
+Responsibilities::
+* From the aspect of ISO-26262
+** Lead the whole 6.Software Level development processes
+Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
+
+'''
 Project:: V4 Platform (2022-present)
-Role:: Software/System Architect
+Role:: Principal Software/System Architect
 Summary:: Next generation Smart Cockpit Controller Platform, based on SA8295P
 Responsibilities::
 * From the aspect of ASPICE
@@ -37,8 +128,8 @@ Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
 
 '''
 Project:: RPAS (2022-present)
-Role:: Software Architect
-Summary:: BXW Assessment for Tier 1
+Role:: Principal Software Architect
+Summary:: BMW Assessment for Tier 1
 Responsibilities::
 * From the aspect of ASPICE
 ** Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.
@@ -49,8 +140,8 @@ Responsibilities::
 Tech Stack:: UML/EA/Draw.io/ELM/ASCIIDOC/PlantUML etc.
 
 '''
-Project:: EC31 (2021-present)
-Role:: Software Architect
+Project:: EC31 (2021-2023)
+Role:: Principal Software Architect
 Summary:: Smart Cockpit Controller for personal Electric SUV, based on SA8155P
 Responsibilities::
 * From the aspect of ASPICE
@@ -63,7 +154,7 @@ Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
 
 '''
 Project:: ASPICE Certification (EC31) (2021-2023)
-Role:: Software Architect
+Role:: Principal Software Architect
 Summary:: Project Certified by ASPICE CL3
 Responsibilities::
 * From the aspect of ASPICE
@@ -72,7 +163,7 @@ Responsibilities::
 Tech Stack:: UML/EA/Draw.io/ELM/ASCIIDOC/PlantUML etc.
 
 '''
-Project:: HT01 (2022-present)
+Project:: HT01 (2022-2023)
 Role:: Software Architect
 Summary:: Smart Cockpit Controller for Business Electric Truck, based on SA8155P
 Responsibilities::
@@ -85,7 +176,7 @@ Responsibilities::
 Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
 
 '''
-Project:: B16ovs & B07ovs (2022-present)
+Project:: B16ovs & B07ovs (2022-2023)
 Role:: Software Architect
 Summary:: Smart Cockpit Controller for personal Hybrid SUV(focused on oversea market), based on SA8155P
 Responsibilities::
@@ -125,7 +216,7 @@ Tech Stack:: UML/C/C++/AUTOSAR/QNX/Android etc.
 
 '''
 Project:: DE07 (2021-2022 canceled)
-Role:: Software Architect
+Role:: Principal Software Architect
 Summary:: Smart Cockpit Controller for personal Hybrid SUV (GWM's Next generation E/E Architecture), based on SA8155P
 Responsibilities::
 * From the aspect of ASPICE
