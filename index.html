@@ -4,14 +4,14 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 2.0.20">
+<meta name="generator" content="Asciidoctor 2.0.23">
 <meta name="author" content="Nobo Automotive - Lead Software Architect">
 <title>Calvin Wang</title>
-<link rel="stylesheet" href="https://fonts.cat.net/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
 /*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
 /* Uncomment the following line when using as a custom stylesheet */
-/* @import "https://fonts.cat.net/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700"; */
+/* @import "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700"; */
 html{font-family:sans-serif;-webkit-text-size-adjust:100%}
 a{background:none}
 a:focus{outline:thin dotted}
@@ -141,7 +141,7 @@ p a>code:hover{color:rgba(0,0,0,.9)}
 #content::before{content:none}
 #header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
 #header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
-#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+#header>h1:only-child{border-bottom:1px solid #dddddf;padding-bottom:8px}
 #header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:flex;flex-flow:row wrap}
 #header .details span:first-child{margin-left:-.125em}
 #header .details span.email a{color:rgba(0,0,0,.85)}
@@ -163,6 +163,7 @@ p a>code:hover{color:rgba(0,0,0,.9)}
 #toctitle{color:#7a2518;font-size:1.2em}
 @media screen and (min-width:768px){#toctitle{font-size:1.375em}
 body.toc2{padding-left:15em;padding-right:0}
+body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
 #toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
 #toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
 #toc.toc2>ul{font-size:.9em;margin-bottom:0}
@@ -328,7 +329,7 @@ a.image{text-decoration:none;display:inline-block}
 a.image object{pointer-events:none}
 sup.footnote,sup.footnoteref{font-size:.875em;position:static;vertical-align:super}
 sup.footnote a,sup.footnoteref a{text-decoration:none}
-sup.footnote a:active,sup.footnoteref a:active{text-decoration:underline}
+sup.footnote a:active,sup.footnoteref a:active,#footnotes .footnote a:first-of-type:active{text-decoration:underline}
 #footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
 #footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
 #footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
@@ -441,8 +442,8 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <h1>Calvin Wang</h1>
 <div class="details">
 <span id="author" class="author">Nobo Automotive - Lead Software Architect</span><br>
-<span id="revnumber"> 1.0,</span>
-<span id="revdate">2023-06-25</span>
+<span id="revnumber"> 1.1,</span>
+<span id="revdate">2024-10-19</span>
 </div>
 <div id="toc" class="toc2">
 <div id="toctitle">Table of Contents</div>
@@ -693,11 +694,417 @@ Responsibilities
 <dl>
 <dt class="hdlist1">Project</dt>
 <dd>
+<p>D03-1 TANK(2024-present)</p>
+</dd>
+<dt class="hdlist1">Role</dt>
+<dd>
+<p>Software Architect</p>
+</dd>
+<dt class="hdlist1">Summary</dt>
+<dd>
+<p>Smart Cockpit Controller for personal Hybrid SUV, based on V4 platform</p>
+</dd>
+<dt class="hdlist1">Responsibilities</dt>
+<dd>
+<div class="ulist">
+<ul>
+<li>
+<p>From the aspect of ASPICE</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.</p>
+</li>
+<li>
+<p>Lead SWE.1/SWE.2/SWE.3</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</dd>
+<dt class="hdlist1">Responsibilities</dt>
+<dd>
+<div class="ulist">
+<ul>
+<li>
+<p>From the aspect of ISO-26262</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Lead the whole 6.Software Level development processes</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</dd>
+<dt class="hdlist1">Tech Stack</dt>
+<dd>
+<p>UML/C/C++/AUTOSAR/QNX/Android etc.</p>
+</dd>
+</dl>
+</div>
+<hr>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">Project</dt>
+<dd>
+<p>D01 TANK(2024-present)</p>
+</dd>
+<dt class="hdlist1">Role</dt>
+<dd>
+<p>Software Architect</p>
+</dd>
+<dt class="hdlist1">Summary</dt>
+<dd>
+<p>Smart Cockpit Controller for personal Hybrid SUV, based on V4 platform</p>
+</dd>
+<dt class="hdlist1">Responsibilities</dt>
+<dd>
+<div class="ulist">
+<ul>
+<li>
+<p>From the aspect of ASPICE</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.</p>
+</li>
+<li>
+<p>Lead SWE.1/SWE.2/SWE.3</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</dd>
+<dt class="hdlist1">Responsibilities</dt>
+<dd>
+<div class="ulist">
+<ul>
+<li>
+<p>From the aspect of ISO-26262</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Lead the whole 6.Software Level development processes</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</dd>
+<dt class="hdlist1">Tech Stack</dt>
+<dd>
+<p>UML/C/C++/AUTOSAR/QNX/Android etc.</p>
+</dd>
+</dl>
+</div>
+<hr>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">Project</dt>
+<dd>
+<p>P03-3 TANK(2024-present)</p>
+</dd>
+<dt class="hdlist1">Role</dt>
+<dd>
+<p>Software Architect</p>
+</dd>
+<dt class="hdlist1">Summary</dt>
+<dd>
+<p>Smart Cockpit Controller for personal Hybrid SUV, based on V4 platform</p>
+</dd>
+<dt class="hdlist1">Responsibilities</dt>
+<dd>
+<div class="ulist">
+<ul>
+<li>
+<p>From the aspect of ASPICE</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.</p>
+</li>
+<li>
+<p>Lead SWE.1/SWE.2/SWE.3</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</dd>
+<dt class="hdlist1">Responsibilities</dt>
+<dd>
+<div class="ulist">
+<ul>
+<li>
+<p>From the aspect of ISO-26262</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Lead the whole 6.Software Level development processes</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</dd>
+<dt class="hdlist1">Tech Stack</dt>
+<dd>
+<p>UML/C/C++/AUTOSAR/QNX/Android etc.</p>
+</dd>
+</dl>
+</div>
+<hr>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">Project</dt>
+<dd>
+<p>P03-3 TANK(2024-present)</p>
+</dd>
+<dt class="hdlist1">Role</dt>
+<dd>
+<p>Software Architect</p>
+</dd>
+<dt class="hdlist1">Summary</dt>
+<dd>
+<p>Smart Cockpit Controller for personal Hybrid SUV, based on V4 platform</p>
+</dd>
+<dt class="hdlist1">Responsibilities</dt>
+<dd>
+<div class="ulist">
+<ul>
+<li>
+<p>From the aspect of ASPICE</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.</p>
+</li>
+<li>
+<p>Lead SWE.1/SWE.2/SWE.3</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</dd>
+<dt class="hdlist1">Responsibilities</dt>
+<dd>
+<div class="ulist">
+<ul>
+<li>
+<p>From the aspect of ISO-26262</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Lead the whole 6.Software Level development processes</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</dd>
+<dt class="hdlist1">Tech Stack</dt>
+<dd>
+<p>UML/C/C++/AUTOSAR/QNX/Android etc.</p>
+</dd>
+</dl>
+</div>
+<hr>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">Project</dt>
+<dd>
+<p>P02-3 TANK(2024-present)</p>
+</dd>
+<dt class="hdlist1">Role</dt>
+<dd>
+<p>Software Architect</p>
+</dd>
+<dt class="hdlist1">Summary</dt>
+<dd>
+<p>Smart Cockpit Controller for personal Hybrid SUV, based on V4 platform</p>
+</dd>
+<dt class="hdlist1">Responsibilities</dt>
+<dd>
+<div class="ulist">
+<ul>
+<li>
+<p>From the aspect of ASPICE</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.</p>
+</li>
+<li>
+<p>Lead SWE.1/SWE.2/SWE.3</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</dd>
+<dt class="hdlist1">Responsibilities</dt>
+<dd>
+<div class="ulist">
+<ul>
+<li>
+<p>From the aspect of ISO-26262</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Lead the whole 6.Software Level development processes</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</dd>
+<dt class="hdlist1">Tech Stack</dt>
+<dd>
+<p>UML/C/C++/AUTOSAR/QNX/Android etc.</p>
+</dd>
+</dl>
+</div>
+<hr>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">Project</dt>
+<dd>
+<p>C01-1 WEY(2023-present)</p>
+</dd>
+<dt class="hdlist1">Role</dt>
+<dd>
+<p>Principal Software Architect</p>
+</dd>
+<dt class="hdlist1">Summary</dt>
+<dd>
+<p>Debut for the V4 platform, Smart Cockpit Controller for personal Hybrid SUV</p>
+</dd>
+<dt class="hdlist1">Responsibilities</dt>
+<dd>
+<div class="ulist">
+<ul>
+<li>
+<p>From the aspect of ASPICE</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.</p>
+</li>
+<li>
+<p>Lead SWE.1/SWE.2/SWE.3</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</dd>
+<dt class="hdlist1">Responsibilities</dt>
+<dd>
+<div class="ulist">
+<ul>
+<li>
+<p>From the aspect of ISO-26262</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Lead the whole 6.Software Level development processes</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</dd>
+<dt class="hdlist1">Tech Stack</dt>
+<dd>
+<p>UML/C/C++/AUTOSAR/QNX/Android etc.</p>
+</dd>
+</dl>
+</div>
+<hr>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">Project</dt>
+<dd>
+<p>DE09/10 SALOON(2023-present)</p>
+</dd>
+<dt class="hdlist1">Role</dt>
+<dd>
+<p>Software Architect</p>
+</dd>
+<dt class="hdlist1">Summary</dt>
+<dd>
+<p>Smart Cockpit Controller for personal Hybrid SUV, based on V4 platform</p>
+</dd>
+<dt class="hdlist1">Responsibilities</dt>
+<dd>
+<div class="ulist">
+<ul>
+<li>
+<p>From the aspect of ASPICE</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Participate in SYS.1/SYS.2/SYS.3/SWE.1/SWE.2/SWE.3/SWE.5/SWE.6 etc.</p>
+</li>
+<li>
+<p>Lead SWE.1/SWE.2/SWE.3</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</dd>
+<dt class="hdlist1">Responsibilities</dt>
+<dd>
+<div class="ulist">
+<ul>
+<li>
+<p>From the aspect of ISO-26262</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Lead the whole 6.Software Level development processes</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</dd>
+<dt class="hdlist1">Tech Stack</dt>
+<dd>
+<p>UML/C/C++/AUTOSAR/QNX/Android etc.</p>
+</dd>
+</dl>
+</div>
+<hr>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">Project</dt>
+<dd>
 <p>V4 Platform (2022-present)</p>
 </dd>
 <dt class="hdlist1">Role</dt>
 <dd>
-<p>Software/System Architect</p>
+<p>Principal Software/System Architect</p>
 </dd>
 <dt class="hdlist1">Summary</dt>
 <dd>
@@ -755,11 +1162,11 @@ Responsibilities
 </dd>
 <dt class="hdlist1">Role</dt>
 <dd>
-<p>Software Architect</p>
+<p>Principal Software Architect</p>
 </dd>
 <dt class="hdlist1">Summary</dt>
 <dd>
-<p>BXW Assessment for Tier 1</p>
+<p>BMW Assessment for Tier 1</p>
 </dd>
 <dt class="hdlist1">Responsibilities</dt>
 <dd>
@@ -809,11 +1216,11 @@ Responsibilities
 <dl>
 <dt class="hdlist1">Project</dt>
 <dd>
-<p>EC31 (2021-present)</p>
+<p>EC31 (2021-2023)</p>
 </dd>
 <dt class="hdlist1">Role</dt>
 <dd>
-<p>Software Architect</p>
+<p>Principal Software Architect</p>
 </dd>
 <dt class="hdlist1">Summary</dt>
 <dd>
@@ -871,7 +1278,7 @@ Responsibilities
 </dd>
 <dt class="hdlist1">Role</dt>
 <dd>
-<p>Software Architect</p>
+<p>Principal Software Architect</p>
 </dd>
 <dt class="hdlist1">Summary</dt>
 <dd>
@@ -908,7 +1315,7 @@ Responsibilities
 <dl>
 <dt class="hdlist1">Project</dt>
 <dd>
-<p>HT01 (2022-present)</p>
+<p>HT01 (2022-2023)</p>
 </dd>
 <dt class="hdlist1">Role</dt>
 <dd>
@@ -966,7 +1373,7 @@ Responsibilities
 <dl>
 <dt class="hdlist1">Project</dt>
 <dd>
-<p>B16ovs &amp; B07ovs (2022-present)</p>
+<p>B16ovs &amp; B07ovs (2022-2023)</p>
 </dd>
 <dt class="hdlist1">Role</dt>
 <dd>
@@ -1144,7 +1551,7 @@ Responsibilities
 </dd>
 <dt class="hdlist1">Role</dt>
 <dd>
-<p>Software Architect</p>
+<p>Principal Software Architect</p>
 </dd>
 <dt class="hdlist1">Summary</dt>
 <dd>
@@ -1947,6 +2354,12 @@ Languages Certification
 <td class="tableblock halign-left valign-top"><p class="tableblock">First Edition</p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">Calvin</p></td>
 </tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1.1</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">2024/10/19</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Update Annually</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Calvin</p></td>
+</tr>
 </tbody>
 </table>
 <div style="page-break-after: always;"></div>
@@ -1956,11 +2369,11 @@ Languages Certification
 </div>
 <div id="footer">
 <div id="footer-text">
- 1.0<br>
-Last updated 2023-06-25 22:06:05 +0800
+ 1.1<br>
+Last updated 2024-10-19 11:54:31 +0800
 </div>
 </div>
-<script src="https://cdnjs.loli.net/ajax/libs/highlight.js/9.18.3/highlight.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.3/highlight.min.js"></script>
 <script>
 if (!hljs.initHighlighting.called) {
   hljs.initHighlighting.called = true
@@ -1990,6 +2403,6 @@ MathJax.Hub.Register.StartupHook("AsciiMath Jax Ready", function () {
   })
 })
 </script>
-<script src="https://cdnjs.loli.net/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_HTMLorMML"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_HTMLorMML"></script>
 </body>
 </html>
